@@ -15,13 +15,13 @@
 
    ( pip2 install bs4
 
-   ( git clone https://github.com/Lyanx1/vikov1
+   ( git clone https://github.com/Lyanx1/vikov3
 
    ( cd vikov1
 
    ( git pull
 
-   ( python vikov1.py
+   ( python vikov3.py
 
 
 
