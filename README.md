@@ -17,7 +17,7 @@
 
    ( git clone https://github.com/Lyanx1/vikov3
 
-   ( cd vikov1
+   ( cd vikov3
 
    ( git pull
 
