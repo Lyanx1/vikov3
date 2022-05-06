@@ -28,7 +28,7 @@
           TEAM PROJECT :
 
 [1 Viko
-
+[2 Amir
 [2 Lxyan
 
 Jangan Diperjualbelikan SC Free
